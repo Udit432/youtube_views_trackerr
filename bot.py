@@ -7,7 +7,7 @@ from flask import Flask
 
 # ===== CONFIG =====
 API_KEY = "AIzaSyAInDUqTIdPSFnEVK980TwWymx1yg-kFsM" 
-BOT_TOKEN = "8591211757:AAFog_7EW8st_LYGs6sMhqedVu3J30xyZ-0
+BOT_TOKEN = "8591211757:AAFog_7EW8st_LYGs6sMhqedVu3J30xyZ-0"
 
 # ===== FLASK (anti-sleep server) =====
 app = Flask(__name__)
