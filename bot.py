@@ -5,8 +5,8 @@ from datetime import datetime
 from flask import Flask
 
 # ===== CONFIG =====
-API_KEY = "YOUR_YOUTUBE_API_KEY"
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+API_KEY = "AIzaSyAInDUqTIdPSFnEVK980TwWymx1yg-kFsM"
+BOT_TOKEN = "8591211757:AAFog_7EW8st_LYGs6sMhqedVu3J30xyZ-0"
 
 # ===== FLASK (anti-sleep server) =====
 app = Flask(__name__)
