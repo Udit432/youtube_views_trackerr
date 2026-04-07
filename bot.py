@@ -6,7 +6,7 @@ import pytz
 from flask import Flask
 
 # ===== CONFIG =====
-API_KEY = "AIzaSyCyoMgiZF9-o_BRDwtI5ee0lt7akh1azSE" 
+API_KEY = "AIzaSyAInDUqTIdPSFnEVK980TwWymx1yg-kFsME" 
 BOT_TOKEN = "8591211757:AAFog_7EW8st_LYGs6sMhqedVu3J30xyZ-0"
 
 
