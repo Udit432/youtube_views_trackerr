@@ -1,9 +1,11 @@
+import os
 import requests
 import time
 import threading
 from datetime import datetime
 import pytz
 from flask import Flask
+
 
 # ===== CONFIG =====
 API_KEY = os.environ.get("YT_API_KEY") 
