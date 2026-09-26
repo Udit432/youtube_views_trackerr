@@ -6,8 +6,8 @@ import pytz
 from flask import Flask
 
 # ===== CONFIG =====
-API_KEY = "AIzaSyCyoMgiZF9-o_BRDwtI5ee0lt7akh1azSE" 
-BOT_TOKEN = "8591211757:AAFog_7EW8st_LYGs6sMhqedVu3J30xyZ-0"
+API_KEY = os.environ.get("YT_API_KEY") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN") 
 
 
 # ===== FLASK (anti-sleep server) =====
